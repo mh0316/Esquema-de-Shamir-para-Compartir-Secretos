@@ -1,0 +1,1 @@
+# Esquema-de-Shamir-para-Compartir-Secretos
